@@ -7,11 +7,11 @@
  Every Thursday the US Department of Labor announces the weekly jobless claims data on its website in PDF format.
  This code scrapes the PDFs for data and auto updates a visualization on a website.
 
- Step 1:
- - Find PDF on the US DOL website using BeautifulSoup
- - Scrape PDF using Camelot
- - Find the relevant <table> elements and clean up data
- - Turn the data into a CSV named statewise-claims.csv
+  Step 1:
+  - Find PDF on the US DOL website using BeautifulSoup
+  - Scrape PDF using Camelot
+  - Find the relevant <table> elements and clean up data
+  - Turn the data into a CSV named statewise-claims.csv
 
  Step 2:
  - Make it a GitHub repository
