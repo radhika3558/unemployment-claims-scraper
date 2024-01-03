@@ -3,7 +3,7 @@ Alabama,8
 Alaska,81
 Arizona,-321
 Arkansas,667
-California **,5594
+California ,5594
 Colorado,-268
 Connecticut,2264
 Delaware,156
@@ -15,7 +15,7 @@ Idaho,96
 Illinois,1131
 Indiana,647
 Iowa,1520
-Kansas **,275
+Kansas ,275
 Kentucky,1355
 Louisiana,-277
 Maine,-111
@@ -35,7 +35,7 @@ New York,749
 North Carolina,-121
 North Dakota,117
 Ohio,2593
-Oklahoma *,-325
+Oklahoma ,-325
 Oregon,1402
 Pennsylvania,2391
 Puerto Rico,479
@@ -43,7 +43,7 @@ Rhode Island,333
 South Carolina,238
 South Dakota,-65
 Tennessee,428
-Texas *,-2248
+Texas ,-2248
 Utah,-267
 Vermont,242
 Virgin Islands,-9
