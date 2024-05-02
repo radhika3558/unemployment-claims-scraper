@@ -1,59 +1,55 @@
 State,Change
-Alabama,67
-Alaska,212
-Arizona,-249
-Arkansas,38
-California,882
-Colorado,507
-Connecticut,-279
-Delaware,-14
-District of Columbia,34
-Florida,-147
-Georgia,-1297
-Hawaii,-39
-Idaho,33
-Illinois,-458
-Indiana,-606
-Iowa,228
-Kansas,119
-Kentucky,-65
-Louisiana,-33
-Maine,122
-Maryland,-641
-Massachusetts,3565
-Michigan,49
-Minnesota,-185
-Mississippi,-166
-Missouri,-180
-Montana,54
-Nebraska,-91
-Nevada,20
-New Hampshire,-153
-New Jersey,-1019
-New Mexico,31
-New York,-4174
-North Carolina,39
-North Dakota,-15
-Ohio,64
-Oklahoma,16
-Oregon,-1344
-Pennsylvania,-2796
-Puerto Rico,-86
-Rhode Island,1719
-South Carolina,-347
-South Dakota,-29
-Tennessee,137
-Texas,361
-Utah,140
-Vermont,20
-Virgin Islands,-14
-Virginia,99
-Washington,-479
-West Virginia,22
-Wisconsin,-961
-Wyoming,-74
-US Total,-7363
-Note: Advance claims are not directly comparable to claims reported in prior weeks. Advance claims are reported by the,
-state liable for paying the unemployment compensation whereas previous weeks reported claims reflect claimants by,
-"state of residence. In addition claims reported as ""workshare equivalent"" in the previous week are added to the advance",
-"claims as a proxy for the current week's ""workshare equivalent"" activity.",
+Alabama,-264
+Alaska,250
+Arizona,-381
+Arkansas,-298
+California,-4563
+Colorado,-164
+Connecticut,-1349
+Delaware,-22
+District of Columbia,29
+Florida,-546
+Georgia,-351
+Hawaii,-53
+Idaho,-97
+Illinois,1279
+Indiana,-122
+Iowa,1555
+Kansas,100
+Kentucky,305
+Louisiana,-269
+Maine,-161
+Maryland,-294
+Massachusetts,-3361
+Michigan,296
+Minnesota,96
+Mississippi,-56
+Missouri,-78
+Montana,-26
+Nebraska,25
+Nevada,203
+New Hampshire,421
+New Jersey,-728
+New Mexico,-106
+New York,355
+North Carolina,-69
+North Dakota,7
+Ohio,155
+Oklahoma,-54
+Oregon,-1412
+Pennsylvania,204
+Puerto Rico,-131
+Rhode Island,-1619
+South Carolina,-332
+South Dakota,-36
+Tennessee,-333
+Texas,-1253
+Utah,-293
+Vermont,23
+Virgin Islands,-4
+Virginia,-48
+Washington,-152
+West Virginia,29
+Wisconsin,-82
+Wyoming,-109
+US Total,-13884
