@@ -1,55 +1,59 @@
 State,Change
-Alabama,-150
-Alaska,43
-Arizona,-205
-Arkansas,64
-California,-708
-Colorado,-87
-Connecticut,1322
-Delaware,-266
-District of Columbia,193
-Florida,-626
-Georgia,-188
-Hawaii,-46
-Idaho,14
-Illinois,-2081
-Indiana,-94
-Iowa,-184
-Kansas,122
-Kentucky,-160
-Louisiana,-165
-Maine,43
-Maryland,-288
-Massachusetts,3744
-Michigan,-1103
-Minnesota,-2971
-Mississippi,-86
-Missouri,-374
-Montana,60
-Nebraska,-59
-Nevada,-62
-New Hampshire,489
-New Jersey,5276
-New Mexico,240
-New York,-392
-North Carolina,-112
-North Dakota,-26
-Ohio,-852
-Oklahoma,5
-Oregon,1195
-Pennsylvania,-2463
-Puerto Rico,-694
-Rhode Island,831
-South Carolina,-223
-South Dakota,-8
-Tennessee,-231
-Texas,-2541
-Utah,41
-Vermont,687
-Virgin Islands,-4
-Virginia,-136
-Washington,444
-West Virginia,-135
-Wisconsin,-587
-Wyoming,-76
-US Total,-3570
+Alabama,267
+Alaska,28
+Arizona,110
+Arkansas,-491
+California,2145
+Colorado,104
+Connecticut,-1739
+Delaware,-132
+District of Columbia,-10
+Florida,-558
+Georgia,1640
+Hawaii,-97
+Idaho,46
+Illinois,1083
+Indiana,-49
+Iowa,1429
+Kansas,143
+Kentucky,1102
+Louisiana,-113
+Maine,92
+Maryland,-1001
+Massachusetts,-16
+Michigan,1100
+Minnesota,-712
+Mississippi,-14
+Missouri,728
+Montana,-117
+Nebraska,312
+Nevada,279
+New Hampshire,-507
+New Jersey,2235
+New Mexico,195
+New York,4509
+North Carolina,-87
+North Dakota,201
+Ohio,571
+Oklahoma,668
+Oregon,674
+Pennsylvania,-524
+Puerto Rico,-78
+Rhode Island,-186
+South Carolina,355
+South Dakota,-41
+Tennessee,678
+Texas,-137
+Utah,138
+Vermont,-540
+Virgin Islands,-5
+Virginia,-27
+Washington,224
+West Virginia,57
+Wisconsin,-882
+Wyoming,-1
+US Total,13049
+Note: Advance claims are not directly comparable to claims reported in prior weeks. Advance claims are reported by the,
+state liable for paying the unemployment compensation whereas previous weeks reported claims reflect claimants by,
+"state of residence. In addition claims reported as ""workshare equivalent"" in the previous week are added to the advance",
+"claims as a proxy for the current week's ""workshare equivalent"" activity.",
