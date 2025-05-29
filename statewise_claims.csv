@@ -1,55 +1,59 @@
 State,Change
-Alabama,-309
-Alaska,68
-Arizona,-84
-Arkansas,-154
-California,-197
-Colorado,-173
-Connecticut,327
-Delaware,-9
-District of Columbia,60
-Florida,-748
-Georgia,-17
-Hawaii,-18
-Idaho,60
-Illinois,1323
-Indiana,-67
-Iowa,64
-Kansas,67
-Kentucky,97
-Louisiana,180
-Maine,-151
-Maryland,-312
-Massachusetts,-200
-Michigan,-1120
-Minnesota,167
-Mississippi,44
-Missouri,279
-Montana,-17
-Nebraska,-181
-Nevada,-212
-New Hampshire,-98
-New Jersey,-497
-New Mexico,-40
-New York,378
-North Carolina ,-116
-North Dakota,87
-Ohio,-225
-Oklahoma,-163
-Oregon,219
-Pennsylvania,-100
-Puerto Rico,-198
-Rhode Island,127
-South Carolina,-279
-South Dakota,5
-Tennessee,-49
-Texas,29
-Utah,-255
-Vermont,-117
-Virgin Islands,-8
-Virginia,-1263
-Washington,88
-West Virginia,-30
-Wisconsin,104
-Wyoming,-1
-US Total,-3635
+Alabama,-75
+Alaska,138
+Arizona,49
+Arkansas,59
+California ,1424
+Colorado,293
+Connecticut,-3
+Delaware,-10
+District of Columbia,-12
+Florida,792
+Georgia,-288
+Hawaii,-35
+Idaho,17
+Illinois,-670
+Indiana,755
+Iowa,439
+Kansas,-86
+Kentucky,189
+Louisiana,57
+Maine,-104
+Maryland,-459
+Massachusetts,343
+Michigan,3329
+Minnesota,710
+Mississippi,157
+Missouri,777
+Montana,-31
+Nebraska,1322
+Nevada,148
+New Hampshire,6
+New Jersey,-159
+New Mexico,24
+New York,-95
+North Carolina ,-246
+North Dakota,595
+Ohio,232
+Oklahoma,38
+Oregon,372
+Pennsylvania,-213
+Puerto Rico,306
+Rhode Island,201
+South Carolina,37
+South Dakota,17
+Tennessee,-29
+Texas,-624
+Utah,137
+Vermont,82
+Virgin Islands,-2
+Virginia,925
+Washington,-295
+West Virginia,36
+Wisconsin,247
+Wyoming,-75
+US Total,10742
+N,
+state liable for paying the unemployment compensation whereas previous weeks reported claims reflect claimants by,
+"state of residence. In addition claims reported as ""workshare equivalent"" in the previous week are added to the advance",
+"claims as a proxy for the current week's ""workshare equivalent"" activity.",
