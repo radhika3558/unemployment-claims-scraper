@@ -1,59 +1,55 @@
 State,Change
-Alabama,22
-Alaska,60
-Arizona,-6
-Arkansas,-87
-California,-590
-Colorado,313
-Connecticut,607
-Delaware,16
-District of Columbia,83
-Florida,-218
-Georgia,-590
-Hawaii,125
-Idaho,-10
-Illinois,-103
-Indiana,198
-Iowa,182
-Kansas,-423
-Kentucky,-300
-Louisiana,-493
-Maine,163
-Maryland,-194
-Massachusetts,1155
-Michigan,276
-Minnesota,-114
-Mississippi,-125
-Missouri,-121
-Montana,-31
-Nebraska,16
-Nevada,-397
-New Hampshire,-41
-New Jersey,593
-New Mexico,-9
-New York,-904
-North Carolina,38
-North Dakota,-6
-Ohio,-315
-Oklahoma,-150
-Oregon,881
-Pennsylvania,375
-Puerto Rico,-137
-Rhode Island,-249
-South Carolina,-9
-South Dakota,-1
-Tennessee,161
-Texas,900
-Utah,208
-Vermont,-226
-Virgin Islands,-3
-Virginia,137
-Washington,311
-West Virginia,-46
-Wisconsin,277
-Wyoming,-1
-US Total,1198
-N,
-state liable for paying the unemployment compensation whereas previous weeks reported claims reflect claimants by,
-"state of residence. In addition claims reported as ""workshare equivalent"" in the previous week are added to the advance",
-"claims as a proxy for the current week's ""workshare equivalent"" activity.",
+Alabama,-225
+Alaska,90
+Arizona,41
+Arkansas,-63
+California,1111
+Colorado,8
+Connecticut,419
+Delaware,18
+District of Columbia,-6
+Florida,-22
+Georgia,115
+Hawaii,110
+Idaho,37
+Illinois,-298
+Indiana,46
+Iowa,-741
+Kansas,56
+Kentucky,-38
+Louisiana,-76
+Maine,-30
+Maryland,-20
+Massachusetts,1283
+Michigan,534
+Minnesota,347
+Mississippi,-10
+Missouri,-119
+Montana,0
+Nebraska,15
+Nevada,-68
+New Hampshire,-40
+New Jersey,-380
+New Mexico,2
+New York,739
+North Carolina,-23
+North Dakota,34
+Ohio,16
+Oklahoma,-59
+Oregon,212
+Pennsylvania,-260
+Puerto Rico,252
+Rhode Island,571
+South Carolina,-39
+South Dakota,12
+Tennessee,130
+Texas,-132
+Utah,52
+Vermont,21
+Virgin Islands,13
+Virginia,-230
+Washington,153
+West Virginia,19
+Wisconsin,80
+Wyoming,37
+US Total,3694
